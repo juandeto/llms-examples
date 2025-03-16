@@ -1,0 +1,3 @@
+
+
+SUPABASE_PROJECT_PASS=roqueyfausto2020
