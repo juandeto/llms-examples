@@ -1,0 +1,1 @@
+from .tool import get_guitar_tabs_and_chords
